@@ -1,2 +1,2 @@
 # MySimpleCleanArchitecture
-[![setyobagus01](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+[![setyobagus01](https://circleci.com/gh/setyobagus01/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/setyobagus01/MySimpleCleanArchitecture)
